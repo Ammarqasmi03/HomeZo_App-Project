@@ -47,8 +47,8 @@ HomeZo provides a digital platform where:
 This project is developed for **Hack2Skill** under the **Open Innovation** category.
 
 ## 👤 Team
-- **Team Name:** HomeZo Tech
-- **Team Member:** Your Name
+- Team Name: HomeZo Tech
+- **Team Member:** Ammar
 
 ## 📄 Demo & Presentation
 - Demo Video: /docs/Demo_Video.mp4
