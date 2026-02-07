@@ -1,7 +1,6 @@
 # HomeZo_App-Project
 A broker-free room rental platform connecting tenants and owners directly.
 
-
 ## 📌 Overview
 HomeZo is a broker-free room rental platform that connects tenants directly with property owners.
 It eliminates brokerage fees, reduces fake listings, and improves transparency in the rental process.
@@ -50,3 +49,7 @@ HomeZo provides a digital platform where:
 
 ## 📄 Demo & Presentation
 - Presentation: /docs/MyProject_HomeZo_App_PPT.pdf
+
+
+## License
+This project is licensed under the MIT License
