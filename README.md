@@ -43,13 +43,10 @@ HomeZo provides a digital platform where:
 - Online payment gateway
 - Digital rental agreements
 
-## 🏆 Hackathon Submission
-This project is developed for **Hack2Skill** under the **Open Innovation** category.
 
 ## 👤 Team
-- Team Name: HomeZo Tech
+- **Team Name**: HomeZo Tech
 - **Team Member:** Ammar
 
 ## 📄 Demo & Presentation
-- Demo Video: /docs/Demo_Video.mp4
-- Presentation: /docs/HomeZo_Presentation.pdf
+- Presentation: /docs/MyProject_HomeZo_App_PPT.pdf
