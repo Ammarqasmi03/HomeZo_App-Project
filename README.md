@@ -45,7 +45,7 @@ HomeZo provides a digital platform where:
 
 ## 👤 Team
 - **Team Name**: HomeZo Tech
-- **Team Member:** Ammar
+- **Team Member:** Ammar,Abdul Ghani,Abdul Subhan
 
 ## 📄 Demo & Presentation
 - Presentation: /docs/MyProject_HomeZo_App_PPT.pdf
